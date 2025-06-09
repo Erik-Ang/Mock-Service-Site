@@ -1,7 +1,7 @@
 import "./App.css";
 import HomePage from "./components/HomePage.jsx";
 import Booking from "./components/Booking.jsx";
-import Information from "./components/Workflow.jsx";
+import Information from "./components/Information.jsx";
 
 function App() {
   return (
