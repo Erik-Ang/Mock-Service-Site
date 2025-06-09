@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   base: '/mock-service-site/',
   plugins: [
-    react(), 
+    react(),
     tailwindcss()
   ],
 })
