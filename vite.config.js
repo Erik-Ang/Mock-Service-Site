@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/mock-service-site/',
+  base: "https://erik-ang.github.io/Mock-Service-Site/",
   plugins: [
     react(),
     tailwindcss()
